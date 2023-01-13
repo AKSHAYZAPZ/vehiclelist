@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1053969290610",
+    "project_id": "vehicledata-8edfc",
+    "storage_bucket": "vehicledata-8edfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053969290610:android:e7757d61886478e127f9eb",
+        "android_client_info": {
+          "package_name": "com.example.car_bike_details"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053969290610-i7rjenlpu1sov3k5jevrqnk1r1cqpkhi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwwGAHw1ZJHPD35ucjdISk-GZl3RCLCME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053969290610-i7rjenlpu1sov3k5jevrqnk1r1cqpkhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
