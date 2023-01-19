@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
       
         primarySwatch: Colors.green,
       ),
-      home: const ScreenOne(),
+      home:  const ScreenOne(),
     );
   }
 }
