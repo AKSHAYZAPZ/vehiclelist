@@ -25,6 +25,7 @@ class ScreenOne extends StatelessWidget {
         ),
         floatingActionButtonLocation: FloatingActionButtonLocation.centerFloat,
         appBar: AppBar(
+          automaticallyImplyLeading: false,
           backgroundColor: const Color.fromARGB(255, 90, 3, 101),
           title: const Center(child: Text('Vehicle list')),
         ),
